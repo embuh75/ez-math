@@ -1,6 +1,6 @@
 # 🎮 EZ-Math Game Quiz Matematika Dasar Berbasis Web 
 
-Game quiz matematika dasar berbasis web yang menyenangkan dan agak laen.
+Game quiz matematika dasar berbasis web yang menyenangkan dan agak laen, yang diclone dari [sini](https://github.com/Daviddix/math-game)
 
 ---
 
