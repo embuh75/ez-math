@@ -2,8 +2,6 @@
 
 Game quiz matematika dasar berbasis web yang menyenangkan dan agak laen.
 
-![Demo](public/screenshot/Screenshot 2025-07-30 205628.png)
-
 ---
 
 ## ✨ Fitur
