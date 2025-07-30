@@ -1,0 +1,12 @@
+.meme-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    padding: 10px;
+}
+
+.meme-img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}

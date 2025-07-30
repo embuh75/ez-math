@@ -267,5 +267,11 @@ form button:active {
 }
 
 .kategori {
-    color: hsl(115, 70%, 53%);
+    color: hsl(0, 71%, 32%);
+    text-decoration: underline;
+}
+
+.right-answer {
+    color: hsl(115, 95%, 52%);
+    text-decoration: underline;
 }
